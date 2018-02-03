@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_LigaMx"
+            android:icon="@drawable/ligamx"
+            android:title="@string/liga_mx"/>
+        <item
+            android:id="@+id/nav_la_liga"
+            android:icon="@drawable/laliga"
+            android:title="@string/la_liga"/>
+        <item
+            android:id="@+id/nav_ligue_1"
+            android:icon="@drawable/ligue_1"
+            android:title="@string/ligue_1"/>
+        <item
+            android:id="@+id/nav_bundesliga"
+            android:icon="@drawable/bundesliga"
+            android:title="bundesliga"/>
+        <item
+            android:id="@+id/nav_eredivisie"
+            android:icon="@drawable/eredivisie_logo"
+            android:title="eredivisie"/>
+        <item
+            android:id="@+id/nav_premier_league"
+            android:icon="@drawable/premier_league_logo"
+            android:title="premier league"/>
+        <item
+            android:id="@+id/nav_serie_a"
+            android:icon="@drawable/serie_a_logo"
+            android:title="Serie a"/>
+    </group>
+
+
+</menu>

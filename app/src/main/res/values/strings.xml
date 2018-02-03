@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aigol</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ligue_1">Ligue 1</string>
+    <string name="la_liga">La Liga</string>
+    <string name="liga_mx">Liga MX</string>
+    <string name="logos_league">Logos League</string>
+    <string name="edit_match">Modificar partido</string>
+
+</resources>
